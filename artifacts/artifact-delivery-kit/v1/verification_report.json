@@ -1,0 +1,14 @@
+{
+  "archive_path": "dist/artifact_delivery_kit.zip",
+  "archive_sha256": "63e0a8ec402a18cabe0368b7b16d68d2424d70172cd2c1d5dd030ab2026df601",
+  "archive_size_bytes": 7396,
+  "manifest_present": true,
+  "manifest_checksum_ok": true,
+  "manifest_files_match": true,
+  "manifest_errors": [],
+  "integrity_ok": true,
+  "integrity_errors": [],
+  "extraction_ok": true,
+  "extraction_errors": [],
+  "summary": "VERIFICATION PASSED"
+}

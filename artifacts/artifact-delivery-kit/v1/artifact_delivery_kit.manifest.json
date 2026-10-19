@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "archive_sha256": "63e0a8ec402a18cabe0368b7b16d68d2424d70172cd2c1d5dd030ab2026df601",
+  "files": [
+    {
+      "path": "__init__.py",
+      "size": 105,
+      "sha256": "3a2b13402c36f45e"
+    },
+    {
+      "path": "manifest.py",
+      "size": 9179,
+      "sha256": "dbd6735a91bda315"
+    },
+    {
+      "path": "release.py",
+      "size": 16477,
+      "sha256": "ef1067f2f1c4aeea"
+    }
+  ]
+}
