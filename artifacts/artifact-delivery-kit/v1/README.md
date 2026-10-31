@@ -1,35 +1,7 @@
-# Artifact Delivery Kit v1
+# Artifact Delivery Kit v1 — INVALID ARCHIVE
 
-Verified downloadable release package.
+Do not install this package. On 2026-10-31, the stored artifact_delivery_kit.zip was 3140 bytes and was not a valid ZIP. Its SHA-256 is 59a288fb12629a55373f3b6f5a9f7f60fac2a51996f294c8ee748fdb79b9b3d6.
 
-Source package: `artifact_delivery_kit/`
-Release archive: `artifact_delivery_kit.zip`
+The historical manifest/checksum/verification_report claim 7396 bytes and a different hash. They are preserved as source claims; they are not evidence that the current bytes pass verification.
 
-## Included files
-
-- `artifact_delivery_kit/__init__.py`
-- `artifact_delivery_kit/release.py`
-- `artifact_delivery_kit/manifest.py`
-- `tests/test_release.py`
-- `pyproject.toml`
-- `README.md`
-- `artifact_delivery_kit.zip`
-- `artifact_delivery_kit.manifest.json`
-- `artifact_delivery_kit.sha256.txt`
-- `verification_report.json`
-
-## Verification
-
-- Archive size: 7396 bytes
-- SHA-256: 63e0a8ec402a18cabe0368b7b16d68d2424d70172cd2c1d5dd030ab2026df601
-- ZIP valid: yes
-- Manifest `archive_sha256` matches archive: yes
-- Checksum file header matches archive: yes
-- Tests: 40 passed, 0 failures
-
-## Download
-
-- ZIP: `https://github.com/hssgj/freebie_playground-/raw/main/artifacts/artifact-delivery-kit/v1/artifact_delivery_kit.zip`
-- Manifest: `https://github.com/hssgj/freebie_playground-/raw/main/artifacts/artifact-delivery-kit/v1/artifact_delivery_kit.manifest.json`
-- Checksum: `https://github.com/hssgj/freebie_playground-/raw/main/artifacts/artifact-delivery-kit/v1/artifact_delivery_kit.sha256.txt`
-- Verification report: `https://github.com/hssgj/freebie_playground-/raw/main/artifacts/artifact-delivery-kit/v1/verification_report.json`
+The original bytes and reported metadata are preserved under [canonical PAE quarantine](https://github.com/hssgj/PAE/tree/main/archive/quarantine/freebie-delivery-kit-v1). Current work starts at [PAE START_HERE](https://github.com/hssgj/PAE/blob/main/docs/START_HERE.md).
