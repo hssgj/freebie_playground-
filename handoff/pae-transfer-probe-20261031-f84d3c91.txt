@@ -1,0 +1,4 @@
+PAE_TRANSFER_PROBE_V1
+challenge=pae-20261031-f84d3c91
+created_by=ChatGPT
+purpose=Verify real file transfer before rebuilding PAE.
